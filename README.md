@@ -1,6 +1,5 @@
-# Flood Projects in Python — Humanised Collection
-
-Seven complete, readable, beginner‑friendly flood projects:
+# Flood Projects 
+Flood Projects:
 1) Flood Data Visualisation Dashboard (Dash)
 2) Flood Early Warning (Machine Learning)
 3) Flood Spread Simulation (Cellular Automata)
